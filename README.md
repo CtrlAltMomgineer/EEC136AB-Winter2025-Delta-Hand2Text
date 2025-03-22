@@ -29,9 +29,12 @@ Edit
 /main.c                → Main application file  
 /README.md             → This file  
 /deltaBreakout         → PCB for the Design
+
 🧪 Current Status
-✅ Prototype assembled
 ✅ Initial gestures (A, B, C, P , .... Z) working
+
 🔧 Final testing and expansion of gesture set in progress
+
 📅 Course Info
+
 UC Davis — EEC 136AB Winter 2025
